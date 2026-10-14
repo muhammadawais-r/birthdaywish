@@ -1,0 +1,6 @@
+{
+  "name": "The Introvert Experience — Zyan Jigri",
+  "description": "A Special Birthday Mission for Zyan Jigri (The Introvert) — An interactive cinematic birthday journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
